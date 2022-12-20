@@ -1,2 +1,6 @@
-history.txt
+hola mi nombre Fabian Ortega tengo 43 años soy del Cauca
+
+me gusta el futbol
+hoy es papa
+
 
